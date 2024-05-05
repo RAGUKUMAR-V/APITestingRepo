@@ -1,6 +1,6 @@
-package Pojo;
+package Pojo_Deserialization;
 
-public class Mobile {
+public class WebAutomation {
 
     private String courseTitle;
     private String price;

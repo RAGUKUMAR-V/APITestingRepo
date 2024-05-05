@@ -1,4 +1,4 @@
-package Pojo;
+package Pojo_Deserialization;
 
 import io.restassured.path.json.JsonPath;
 import org.testng.annotations.Test;
