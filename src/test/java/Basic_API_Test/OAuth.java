@@ -1,4 +1,5 @@
-import io.restassured.RestAssured;
+package Basic_API_Test;
+
 import io.restassured.path.json.JsonPath;
 import org.testng.annotations.Test;
 import static io.restassured.RestAssured.*;

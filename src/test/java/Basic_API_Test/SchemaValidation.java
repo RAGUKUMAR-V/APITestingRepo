@@ -1,7 +1,8 @@
+package Basic_API_Test;
+
 import io.restassured.path.json.JsonPath;
 import org.testng.Assert;
 import org.testng.annotations.Test;
-import org.testng.reporters.XMLConstants;
 
 public class SchemaValidation {
 

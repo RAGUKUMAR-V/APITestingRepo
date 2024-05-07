@@ -1,3 +1,5 @@
+package Basic_API_Test;
+
 import io.restassured.RestAssured;
 import org.testng.annotations.DataProvider;
 import org.testng.annotations.Test;
